@@ -12,3 +12,4 @@ Why we write Shell Scripting
 like, over my career, like, I have written shell script to automate some small tasks. Like, for example, there is a Docker running on a virtual machine.
 So what happens that sometimes the disk gets exhausted due to, like, too much, too many Docker images, right? So I wrote a share script in order to automate the task, to remove the images which are older than 30 days, right? 
 So that shell script used to run on crontab, and it used to check for all the images which are older than 30 day, and it used to remove
+ssh -i \Users\tejap\Downloads\first-vm_key.pem azureuser@20.96.183.122
